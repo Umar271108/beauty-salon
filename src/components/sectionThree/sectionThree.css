@@ -1,0 +1,15 @@
+.sectionThree {
+    background-color: #111;
+    padding-top: 102px;
+    padding-bottom: 180px;
+}
+
+.sectionThree-inner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sectionThree-inner img {
+    opacity: 0.5;
+}

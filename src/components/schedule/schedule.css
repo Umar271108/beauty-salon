@@ -1,0 +1,29 @@
+.schedule-inner {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.schedule-title {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    color: #fff;
+}
+
+.schedule-text {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.schedule-days {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    color: #fff;
+    line-height: 130%
+}

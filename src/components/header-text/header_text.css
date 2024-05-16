@@ -1,0 +1,23 @@
+.header-text {
+    margin-top: 210px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    gap: 210px;
+}
+
+.text {
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.scroll {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}

@@ -1,0 +1,16 @@
+.header {
+    background-image: url(../assets/images/bgc.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.container {
+    max-width: 1296px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}

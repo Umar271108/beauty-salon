@@ -1,0 +1,26 @@
+.section-one {
+    background-color: #111;
+    padding-bottom: 95px;
+}
+
+.section-one-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 120px;
+    gap: 60px;
+}
+
+.section-one-text {
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+    color: #fff;
+    width: 856px;
+}
+
+.text-center {
+    text-align: center;
+}

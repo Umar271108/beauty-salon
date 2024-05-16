@@ -1,0 +1,30 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    flex-direction: column;
+}
+
+.card-image-inner {
+    box-shadow: 20px -20px #111;
+    border: 1px solid #cdaa7d73;
+    height: 303px;
+}
+
+.card-image {
+    transform: translate(-20px, 20px);
+    transition: all 0.4s ease-in;
+}
+
+.card-image:hover {
+    transform: translate(0);
+    transition: all 0.4s ease-in;
+}
+
+.card-text {
+    color: #fff;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+}

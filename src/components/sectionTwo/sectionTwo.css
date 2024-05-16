@@ -1,0 +1,10 @@
+.sectionTwo {
+    background-color: #111;
+    padding-bottom: 60px;
+}
+
+.sectionTwo-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
